@@ -1,0 +1,96 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-inter: var(--font-inter);
+  --font-playfair: var(--font-playfair);
+  --font-source-serif: var(--font-source-serif);
+  --font-cinzel: var(--font-cinzel);
+  --font-cormorant: var(--font-cormorant);
+  --font-eb-garamond: var(--font-eb-garamond);
+  --font-space-grotesk: var(--font-space-grotesk);
+
+  --font-family-cinzel: var(--font-cinzel), serif;
+  --font-family-space-grotesk: var(--font-space-grotesk), sans-serif;
+  --font-family-inter: var(--font-inter), sans-serif;
+  --font-family-playfair: var(--font-playfair), serif;
+  --font-family-source-serif: var(--font-source-serif), serif;
+  --font-family-cormorant: var(--font-cormorant), serif;
+  --font-family-eb-garamond: var(--font-eb-garamond), serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-space-grotesk), system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+/* Custom animations for navbar */
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Auto-scrolling animation for accolades - smooth scrolling */
+@keyframes scroll-left {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll-left,
+.animate-scroll-1x,
+.animate-scroll-2x,
+.animate-scroll-3x {
+  display: flex;
+  width: max-content;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+.animate-scroll-left {
+  animation: scroll-left 30s linear infinite;
+}
+
+/* Speed variants */
+.animate-scroll-1x {
+  animation: scroll-left 25s linear infinite;
+}
+
+.animate-scroll-2x {
+  animation: scroll-left 12s linear infinite;
+}
+
+.animate-scroll-3x {
+  animation: scroll-left 6s linear infinite;
+}
+
+/* Pause animation on hover */
+.animate-scroll-left:hover,
+.animate-scroll-1x:hover,
+.animate-scroll-2x:hover,
+.animate-scroll-3x:hover {
+  animation-play-state: paused;
+}
