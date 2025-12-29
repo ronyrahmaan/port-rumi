@@ -47,6 +47,29 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata: Metadata = {
   title: "Maruf Hasan Rumi - Academic Portfolio",
   description: "Academic portfolio of Maruf Hasan Rumi, Assistant Professor of Public Administration at University of Dhaka and PhD Student in Political Science at Texas Tech University.",
+  metadataBase: new URL('https://marufhasanrumi.com'),
+  openGraph: {
+    title: "Maruf Hasan Rumi - Academic Portfolio",
+    description: "Assistant Professor of Public Administration at University of Dhaka and PhD Student at Texas Tech University.",
+    url: 'https://marufhasanrumi.com',
+    siteName: 'Maruf Hasan Rumi',
+    images: [
+      {
+        url: '/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Maruf Hasan Rumi',
+      },
+    ],
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: "Maruf Hasan Rumi - Academic Portfolio",
+    description: "Assistant Professor of Public Administration at University of Dhaka and PhD Student at Texas Tech University.",
+    images: ['/og-image.jpg'],
+  },
 };
 
 export default function RootLayout({
