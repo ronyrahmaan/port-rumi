@@ -332,6 +332,38 @@ export default function Home() {
                     Johns Hopkins University
                   </p>
                 </div>
+
+                <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
+                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                    <img
+                      src="/Chancellor's Gold Medal .svg"
+                      alt="Chancellor's Gold Medal"
+                      className="w-20 h-20 object-contain mx-auto"
+                    />
+                  </div>
+                  <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
+                    Chancellor's Gold Medal
+                  </h3>
+                  <p className="text-xs text-center text-slate-600 font-space-grotesk font-medium px-6">
+                    University of Dhaka
+                  </p>
+                </div>
+
+                <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
+                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                    <img
+                      src="/Prime Minister's Gold Medal.svg"
+                      alt="Prime Minister's Gold Medal"
+                      className="w-20 h-20 object-contain mx-auto"
+                    />
+                  </div>
+                  <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
+                    Prime Minister's Gold Medal
+                  </h3>
+                  <p className="text-xs text-center text-slate-600 font-space-grotesk font-medium px-6">
+                    Government of Bangladesh
+                  </p>
+                </div>
               </div>
 
               {/* Second set of accolades (duplicate for seamless loop) */}
@@ -429,6 +461,38 @@ export default function Home() {
                   </h3>
                   <p className="text-xs text-center text-slate-600 font-space-grotesk font-medium px-6">
                     Johns Hopkins University
+                  </p>
+                </div>
+
+                <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
+                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                    <img
+                      src="/Chancellor's Gold Medal .svg"
+                      alt="Chancellor's Gold Medal"
+                      className="w-20 h-20 object-contain mx-auto"
+                    />
+                  </div>
+                  <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
+                    Chancellor's Gold Medal
+                  </h3>
+                  <p className="text-xs text-center text-slate-600 font-space-grotesk font-medium px-6">
+                    University of Dhaka
+                  </p>
+                </div>
+
+                <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
+                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                    <img
+                      src="/Prime Minister's Gold Medal.svg"
+                      alt="Prime Minister's Gold Medal"
+                      className="w-20 h-20 object-contain mx-auto"
+                    />
+                  </div>
+                  <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
+                    Prime Minister's Gold Medal
+                  </h3>
+                  <p className="text-xs text-center text-slate-600 font-space-grotesk font-medium px-6">
+                    Government of Bangladesh
                   </p>
                 </div>
               </div>
