@@ -352,7 +352,7 @@ export default function Home() {
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
                   <div className="mb-6 group-hover:scale-105 transition-all duration-300">
                     <img
-                      src="/Prime Minister's Gold Medal.svg"
+                      src="/PrimeMinistersGoldMedal.svg"
                       alt="Prime Minister's Gold Medal"
                       className="w-20 h-20 object-contain mx-auto"
                     />
@@ -483,7 +483,7 @@ export default function Home() {
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
                   <div className="mb-6 group-hover:scale-105 transition-all duration-300">
                     <img
-                      src="/Prime Minister's Gold Medal.svg"
+                      src="/PrimeMinistersGoldMedal.svg"
                       alt="Prime Minister's Gold Medal"
                       className="w-20 h-20 object-contain mx-auto"
                     />
