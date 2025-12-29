@@ -242,7 +242,7 @@ export default function Home() {
                     <img
                       src="/1.svg"
                       alt="Texas Tech University Logo"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -258,7 +258,7 @@ export default function Home() {
                     <img
                       src="/dhaka university.png"
                       alt="University of Dhaka Logo"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -274,7 +274,7 @@ export default function Home() {
                     <img
                       src="/dean.svg"
                       alt="University of Dhaka Dean's Award Logo"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -290,7 +290,7 @@ export default function Home() {
                     <img
                       src="/2022 UGC Scholarships.png"
                       alt="University Grants Commission Bangladesh Logo"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -306,7 +306,7 @@ export default function Home() {
                     <img
                       src="/2020 Provost Award.png"
                       alt="University Provost Award Logo"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -322,7 +322,7 @@ export default function Home() {
                     <img
                       src="/2020 Johns Hopkins Fellowship.png"
                       alt="Johns Hopkins University Logo"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -338,7 +338,7 @@ export default function Home() {
                     <img
                       src="/Chancellor's Gold Medal .svg"
                       alt="Chancellor's Gold Medal"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -354,7 +354,7 @@ export default function Home() {
                     <img
                       src="/PrimeMinistersGoldMedal.svg"
                       alt="Prime Minister's Gold Medal"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -373,7 +373,7 @@ export default function Home() {
                     <img
                       src="/1.svg"
                       alt="Texas Tech University Logo"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -389,7 +389,7 @@ export default function Home() {
                     <img
                       src="/dhaka university.png"
                       alt="University of Dhaka Logo"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -405,7 +405,7 @@ export default function Home() {
                     <img
                       src="/dean.svg"
                       alt="University of Dhaka Dean's Award Logo"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -421,7 +421,7 @@ export default function Home() {
                     <img
                       src="/2022 UGC Scholarships.png"
                       alt="University Grants Commission Bangladesh Logo"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -437,7 +437,7 @@ export default function Home() {
                     <img
                       src="/2020 Provost Award.png"
                       alt="University Provost Award Logo"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -453,7 +453,7 @@ export default function Home() {
                     <img
                       src="/2020 Johns Hopkins Fellowship.png"
                       alt="Johns Hopkins University Logo"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -469,7 +469,7 @@ export default function Home() {
                     <img
                       src="/Chancellor's Gold Medal .svg"
                       alt="Chancellor's Gold Medal"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -485,7 +485,7 @@ export default function Home() {
                     <img
                       src="/PrimeMinistersGoldMedal.svg"
                       alt="Prime Minister's Gold Medal"
-                      className="w-20 h-20 object-contain mx-auto"
+                      className="w-24 h-24 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
