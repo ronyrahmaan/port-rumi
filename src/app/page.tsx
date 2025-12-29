@@ -20,8 +20,33 @@ export default function Home() {
     }
   };
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    name: 'Maruf Hasan Rumi',
+    url: 'https://marufhasanrumi.com',
+    jobTitle: ['Assistant Professor', 'PhD Student', 'Graduate Teaching Assistant'],
+    worksFor: [
+      { '@type': 'Organization', name: 'Texas Tech University', department: 'Department of Political Science' },
+      { '@type': 'Organization', name: 'University of Dhaka', department: 'Department of Public Administration' }
+    ],
+    alumniOf: [
+      { '@type': 'Organization', name: 'University of Dhaka' }
+    ],
+    knowsAbout: ['Public Administration', 'Political Science', 'Governance', 'Public Health', 'Behavioral Science'],
+    sameAs: [
+      'https://scholar.google.com/citations?user=tgKqnrMAAAAJ',
+      'https://www.du.ac.bd/faculty/faculty_details/PUB/2483'
+    ]
+  };
+
   return (
     <Layout>
+      {/* JSON-LD Structured Data for SEO */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Hero Section */}
       <section className="relative min-h-[70vh] sm:min-h-[80vh] lg:min-h-screen flex items-center overflow-hidden bg-stone-100">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">

@@ -1,6 +1,12 @@
+import type { Metadata } from 'next'
 import Image from "next/image";
 import Layout from "@/components/Layout";
 import { books } from "@/data/books";
+
+export const metadata: Metadata = {
+  title: 'Books & Book Chapters | Maruf Hasan Rumi',
+  description: 'Book chapters published by Maruf Hasan Rumi in academic volumes on public policy, migration, and governance.',
+}
 
 export default function Books() {
   return (

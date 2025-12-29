@@ -1,5 +1,11 @@
+import type { Metadata } from 'next'
 import Layout from "@/components/Layout";
 import { articles } from "@/data/articles";
+
+export const metadata: Metadata = {
+  title: 'Op-Eds & Articles | Maruf Hasan Rumi',
+  description: 'Opinion editorials and articles by Maruf Hasan Rumi on Bangladesh politics, foreign policy, and humanitarian issues.',
+}
 
 function formatDate(dateString: string) {
   return new Date(dateString).toLocaleDateString('en-US', {

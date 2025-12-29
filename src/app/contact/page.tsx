@@ -1,4 +1,10 @@
+import type { Metadata } from 'next'
 import Layout from "@/components/Layout";
+
+export const metadata: Metadata = {
+  title: 'Contact | Maruf Hasan Rumi',
+  description: 'Contact Maruf Hasan Rumi for speaking engagements, media interviews, research collaboration, or student inquiries.',
+}
 
 export default function Contact() {
   return (

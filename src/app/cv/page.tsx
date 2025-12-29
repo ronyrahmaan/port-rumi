@@ -1,5 +1,11 @@
+import type { Metadata } from 'next'
 import Layout from "@/components/Layout";
 import { cvSections } from "@/data/cv";
+
+export const metadata: Metadata = {
+  title: 'CV | Maruf Hasan Rumi',
+  description: 'Academic curriculum vitae of Maruf Hasan Rumi - education, publications, awards, research projects, and professional experience.',
+}
 
 export default function CV() {
   return (
