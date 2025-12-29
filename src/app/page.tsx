@@ -290,7 +290,7 @@ export default function Home() {
                     <img
                       src="/2022 UGC Scholarships.png"
                       alt="University Grants Commission Bangladesh Logo"
-                      className="w-40 h-40 object-contain mx-auto"
+                      className="w-48 h-48 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -322,11 +322,11 @@ export default function Home() {
                     <img
                       src="/2020 Johns Hopkins Fellowship.png"
                       alt="Johns Hopkins University Logo"
-                      className="w-40 h-40 object-contain mx-auto"
+                      className="w-48 h-48 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
-                    2020 Johns Hopkins Fellowship
+                    Bloomberg School of Public Health Fellowship
                   </h3>
                   <p className="text-xs text-center text-slate-600 font-space-grotesk font-medium px-6">
                     Johns Hopkins University
@@ -421,7 +421,7 @@ export default function Home() {
                     <img
                       src="/2022 UGC Scholarships.png"
                       alt="University Grants Commission Bangladesh Logo"
-                      className="w-40 h-40 object-contain mx-auto"
+                      className="w-48 h-48 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -453,11 +453,11 @@ export default function Home() {
                     <img
                       src="/2020 Johns Hopkins Fellowship.png"
                       alt="Johns Hopkins University Logo"
-                      className="w-40 h-40 object-contain mx-auto"
+                      className="w-48 h-48 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
-                    2020 Johns Hopkins Fellowship
+                    Bloomberg School of Public Health Fellowship
                   </h3>
                   <p className="text-xs text-center text-slate-600 font-space-grotesk font-medium px-6">
                     Johns Hopkins University

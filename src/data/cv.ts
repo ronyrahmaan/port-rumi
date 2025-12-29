@@ -204,6 +204,12 @@ export const cvSections: CVSection[] = [
         organization: 'Johns Hopkins University',
         date: '2020',
         description: 'Fellowship on tobacco control'
+      },
+      {
+        title: 'Prime Minister\'s Gold Medal',
+        organization: 'Government of Bangladesh',
+        date: '2022',
+        description: 'For outstanding academic achievement'
       }
     ]
   },
