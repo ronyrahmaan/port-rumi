@@ -256,7 +256,7 @@ export default function Home() {
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
                   <div className="mb-6 group-hover:scale-105 transition-all duration-300">
                     <img
-                      src="/dhaka university.png"
+                      src="/dean.svg"
                       alt="University of Dhaka Logo"
                       className="w-24 h-24 object-contain mx-auto"
                     />
@@ -290,7 +290,7 @@ export default function Home() {
                     <img
                       src="/2022 UGC Scholarships.png"
                       alt="University Grants Commission Bangladesh Logo"
-                      className="w-24 h-24 object-contain mx-auto"
+                      className="w-32 h-32 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -322,7 +322,7 @@ export default function Home() {
                     <img
                       src="/2020 Johns Hopkins Fellowship.png"
                       alt="Johns Hopkins University Logo"
-                      className="w-24 h-24 object-contain mx-auto"
+                      className="w-32 h-32 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -387,7 +387,7 @@ export default function Home() {
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
                   <div className="mb-6 group-hover:scale-105 transition-all duration-300">
                     <img
-                      src="/dhaka university.png"
+                      src="/dean.svg"
                       alt="University of Dhaka Logo"
                       className="w-24 h-24 object-contain mx-auto"
                     />
@@ -421,7 +421,7 @@ export default function Home() {
                     <img
                       src="/2022 UGC Scholarships.png"
                       alt="University Grants Commission Bangladesh Logo"
-                      className="w-24 h-24 object-contain mx-auto"
+                      className="w-32 h-32 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -453,7 +453,7 @@ export default function Home() {
                     <img
                       src="/2020 Johns Hopkins Fellowship.png"
                       alt="Johns Hopkins University Logo"
-                      className="w-24 h-24 object-contain mx-auto"
+                      className="w-32 h-32 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
