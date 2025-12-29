@@ -26,6 +26,7 @@ export default function Publications() {
       case 'conference': return 'Conference Paper';
       case 'working-paper': return 'Working Paper';
       case 'technical-report': return 'Technical Report';
+      case 'research-report': return 'Research Report';
       default: return type;
     }
   };
@@ -37,6 +38,7 @@ export default function Publications() {
       case 'conference': return 'bg-purple-100 text-purple-800';
       case 'working-paper': return 'bg-orange-100 text-orange-800';
       case 'technical-report': return 'bg-teal-100 text-teal-800';
+      case 'research-report': return 'bg-emerald-100 text-emerald-800';
       default: return 'bg-gray-100 text-gray-800';
     }
   };
@@ -71,6 +73,7 @@ export default function Publications() {
                   <option value="conference">Conference Papers</option>
                   <option value="working-paper">Working Papers</option>
                   <option value="technical-report">Technical Reports</option>
+                  <option value="research-report">Research Reports</option>
                 </select>
               </div>
 

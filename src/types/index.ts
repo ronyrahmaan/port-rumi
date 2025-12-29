@@ -76,7 +76,7 @@ export interface Publication {
   pages?: string;
   doi?: string;
   url?: string;
-  type: 'journal' | 'book-chapter' | 'conference' | 'working-paper' | 'technical-report';
+  type: 'journal' | 'book-chapter' | 'conference' | 'working-paper' | 'technical-report' | 'research-report';
   abstract?: string;
   keywords?: string[];
   category?: string;
