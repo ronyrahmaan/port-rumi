@@ -3,6 +3,22 @@ import { Publication } from '@/types';
 export const publications: Publication[] = [
   // 2025 Publications
   {
+    id: 'pub-000',
+    title: 'Assessing the Open Market Sale (OMS) as an Urban Food Safety Net in Bangladesh: Policy and Practice Gaps',
+    authors: ['Maruf Hasan Rumi', 'Md. Nure Alam'],
+    journal: 'Journal of Asian Social Science Research',
+    year: '2025',
+    volume: '7',
+    issue: '2',
+    pages: '293-320',
+    type: 'journal',
+    doi: '10.15575/jassr.v7i2.137',
+    url: 'https://doi.org/10.15575/jassr.v7i2.137',
+    category: 'Public Administration',
+    abstract: 'Public food distribution programmes are central to social protection efforts, yet their performance often falls short of their stated goals. This study evaluates the service quality of the Open Market Sale (OMS) programme, which provides subsidised food grains to low-income urban residents, and examines how institutional and political factors shape its outcomes. Using a qualitative design informed by critical realism, the research draws on 20 in-depth interviews with purposefully selected beneficiaries and 10 key informant interviews with programme administrators, dealers and community leaders, complemented by documentary analysis of policy and evaluation reports.',
+    keywords: ['Food security', 'Public service delivery', 'Safety nets', 'Service quality', 'Social protection', 'Food program', 'Open Market Sale']
+  },
+  {
     id: 'pub-001',
     title: 'From Diaspora to Diplomacy: Migration and Regional Power in South Asia',
     authors: ['S. Hosen', 'Maruf Hasan Rumi'],

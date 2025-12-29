@@ -110,6 +110,8 @@ export const cvSections: CVSection[] = [
         title: 'Journal Articles (2025)',
         date: '2025',
         description: `
+          • "Assessing the Open Market Sale (OMS) as an Urban Food Safety Net in Bangladesh: Policy and Practice Gaps," Journal of Asian Social Science Research, 2025. DOI: 10.15575/jassr.v7i2.137
+
           • "From displacement to hunger: How migration due to conflict affects food security in Yemen," PLOS ONE, 2025. DOI: 10.1371/journal.pone.0333830
 
           • "Influence of Antitobacco Message on Smoking Behavior Among University Students in Bangladesh," Health Science Reports, 2025. DOI: 10.1002/hsr2.71293
