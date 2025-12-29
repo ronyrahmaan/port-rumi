@@ -238,7 +238,7 @@ export default function Home() {
               {/* First set of accolades */}
               <div className="flex space-x-6 sm:space-x-10 md:space-x-16 pl-4 sm:pl-6">
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/1.svg"
                       alt="Texas Tech University Logo"
@@ -254,7 +254,7 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/dean.svg"
                       alt="University of Dhaka Logo"
@@ -270,7 +270,7 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/dean.svg"
                       alt="University of Dhaka Dean's Award Logo"
@@ -286,11 +286,11 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/2022 UGC Scholarships.png"
                       alt="University Grants Commission Bangladesh Logo"
-                      className="w-32 h-32 object-contain mx-auto"
+                      className="w-40 h-40 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -302,7 +302,7 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/2020 Provost Award.png"
                       alt="University Provost Award Logo"
@@ -318,11 +318,11 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/2020 Johns Hopkins Fellowship.png"
                       alt="Johns Hopkins University Logo"
-                      className="w-32 h-32 object-contain mx-auto"
+                      className="w-40 h-40 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -334,7 +334,7 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/Chancellor's Gold Medal .svg"
                       alt="Chancellor's Gold Medal"
@@ -350,7 +350,7 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/PrimeMinistersGoldMedal.svg"
                       alt="Prime Minister's Gold Medal"
@@ -369,7 +369,7 @@ export default function Home() {
               {/* Second set of accolades (duplicate for seamless loop) */}
               <div className="flex space-x-6 sm:space-x-10 md:space-x-16 ml-6 sm:ml-10 md:ml-16">
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/1.svg"
                       alt="Texas Tech University Logo"
@@ -385,7 +385,7 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/dean.svg"
                       alt="University of Dhaka Logo"
@@ -401,7 +401,7 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/dean.svg"
                       alt="University of Dhaka Dean's Award Logo"
@@ -417,11 +417,11 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/2022 UGC Scholarships.png"
                       alt="University Grants Commission Bangladesh Logo"
-                      className="w-32 h-32 object-contain mx-auto"
+                      className="w-40 h-40 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -433,7 +433,7 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/2020 Provost Award.png"
                       alt="University Provost Award Logo"
@@ -449,11 +449,11 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/2020 Johns Hopkins Fellowship.png"
                       alt="Johns Hopkins University Logo"
-                      className="w-32 h-32 object-contain mx-auto"
+                      className="w-40 h-40 object-contain mx-auto"
                     />
                   </div>
                   <h3 className="text-center text-sm font-cinzel font-bold text-slate-800 mb-2 leading-tight px-6 min-h-20 flex items-center">
@@ -465,7 +465,7 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/Chancellor's Gold Medal .svg"
                       alt="Chancellor's Gold Medal"
@@ -481,7 +481,7 @@ export default function Home() {
                 </div>
 
                 <div className="flex flex-col items-center group w-[260px] sm:w-[320px] md:w-[400px] lg:w-[480px]">
-                  <div className="mb-6 group-hover:scale-105 transition-all duration-300">
+                  <div className="mb-6 h-32 flex items-center justify-center group-hover:scale-105 transition-all duration-300">
                     <img
                       src="/PrimeMinistersGoldMedal.svg"
                       alt="Prime Minister's Gold Medal"
