@@ -165,7 +165,7 @@ export const publications: Publication[] = [
     title: 'Just Transition inclusive Green Transition: Review of Best Practices',
     authors: ['Maruf Hasan Rumi', 'Nusrat Jahan Chowdhury'],
     publisher: 'Bangladesh Institute of Labour Studies',
-    year: '2029',
+    year: '2023',
     type: 'research-report',
     url: 'https://share.google/5xevnK81fMiEZtBW5',
     category: 'Public Administration',
