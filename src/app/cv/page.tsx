@@ -25,22 +25,6 @@ export default function CV() {
             </p>
           </div>
 
-          {/* Download CV Button */}
-          <div className="mt-8 flex items-center gap-x-6">
-            <a
-              href="/cv.pdf"
-              download
-              className="rounded-full border-2 border-slate-700 px-5 py-2.5 text-sm font-cinzel font-semibold text-slate-700 hover:bg-slate-700 hover:text-white transition-all duration-300"
-            >
-              Download PDF
-            </a>
-            <a
-              href="mailto:mrumi@ttu.edu"
-              className="text-sm font-semibold leading-6 text-gray-900"
-            >
-              Request Full CV <span aria-hidden="true">→</span>
-            </a>
-          </div>
 
           {/* CV Sections */}
           <div className="mt-16 space-y-16">
