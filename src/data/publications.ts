@@ -3,6 +3,22 @@ import { Publication } from '@/types';
 export const publications: Publication[] = [
   // 2025 Publications
   {
+    id: 'pub-pcos-2025',
+    title: 'Polycystic ovary syndrome and psychological distress: Urban–rural comparison among reproductive-aged women in Bangladesh',
+    authors: ['A. Talukder', 'T.A. Tithi', 'Maruf Hasan Rumi', 'A. Muyeed'],
+    journal: 'PLOS Global Public Health',
+    year: '2025',
+    volume: '5',
+    issue: '12',
+    pages: 'e0004937',
+    type: 'journal',
+    doi: '10.1371/journal.pgph.0004937',
+    url: 'https://doi.org/10.1371/journal.pgph.0004937',
+    category: 'Public Health',
+    abstract: 'This study examines the relationship between polycystic ovary syndrome (PCOS) and psychological distress among reproductive-aged women in Bangladesh, with a focus on urban-rural differences.',
+    keywords: ['PCOS', 'Psychological distress', 'Women\'s health', 'Urban-rural', 'Bangladesh', 'Reproductive health']
+  },
+  {
     id: 'pub-000',
     title: 'Assessing the Open Market Sale (OMS) as an Urban Food Safety Net in Bangladesh: Policy and Practice Gaps',
     authors: ['Maruf Hasan Rumi', 'Md. Nure Alam'],
