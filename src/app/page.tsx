@@ -845,25 +845,6 @@ export default function Home() {
             </div>
           </div>
 
-          {/* Training */}
-          <div className="mt-16 bg-linear-to-br from-blue-50 to-indigo-50 rounded-3xl p-8 border border-blue-100">
-            <h3 className="text-xl font-cinzel font-bold text-slate-800 mb-6">Training</h3>
-            <div className="bg-white rounded-xl p-6 border border-blue-100 flex flex-col md:flex-row items-center gap-6">
-              <div className="shrink-0">
-                <img
-                  src="/training.png"
-                  alt="University of Oxford - Saïd Business School"
-                  className="h-24 object-contain"
-                />
-              </div>
-              <div>
-                <h4 className="text-lg font-cinzel font-semibold text-slate-800 mb-2">AI and Digital Transformation in Government</h4>
-                <p className="text-sm font-space-grotesk text-gray-700">University of Oxford - Saïd Business School</p>
-                <p className="text-sm font-space-grotesk text-gray-600 mt-1">2026 • Funded by UNESCO</p>
-              </div>
-            </div>
-          </div>
-
           {/* Skills */}
           <div className="mt-16 bg-linear-to-br from-teal-50 to-cyan-50 rounded-3xl p-8 border border-teal-100">
             <h3 className="text-xl font-cinzel font-bold text-slate-800 mb-6">Skills</h3>

@@ -274,17 +274,6 @@ export const cvSections: CVSection[] = [
     ]
   },
   {
-    title: 'Training',
-    items: [
-      {
-        title: 'AI and Digital Transformation in Government',
-        organization: 'University of Oxford - Saïd Business School',
-        date: '2026',
-        description: 'Funded by UNESCO'
-      }
-    ]
-  },
-  {
     title: 'Professional Memberships',
     items: [
       {
