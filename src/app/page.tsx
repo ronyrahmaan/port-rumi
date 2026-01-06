@@ -7,6 +7,7 @@ import Layout from "@/components/Layout";
 import { books } from "@/data/books";
 import { publications } from "@/data/publications";
 import { cvSections } from "@/data/cv";
+import { researchProjects } from "@/data/research-projects";
 
 export default function Home() {
   const [carouselSpeed, setCarouselSpeed] = useState<'1x' | '2x' | '3x'>('1x');
@@ -746,7 +747,7 @@ export default function Home() {
                         href={section.title === 'Research Projects' ? '/research-projects' : '/cv'}
                         className="text-sm font-space-grotesk text-slate-600 hover:text-slate-800 transition-colors duration-200 group inline-flex items-center"
                       >
-                        View all {section.title === 'Research Projects' ? 19 : section.items.length} entries
+                        View all {section.title === 'Research Projects' ? researchProjects.length : section.items.length} entries
                         <svg className="ml-1 w-3 h-3 group-hover:translate-x-1 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                         </svg>
