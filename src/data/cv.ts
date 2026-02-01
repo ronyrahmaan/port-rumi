@@ -42,7 +42,7 @@ export const cvSections: CVSection[] = [
         organization: 'Department of Public Administration, University of Dhaka',
         location: 'Dhaka, Bangladesh',
         date: '2022-2025',
-        description: '• Supervised 20 undergraduate research projects, with seven mentees securing national and international grants totaling USD 40,000, demonstrating capacity to mentor emerging scholars\n• Delivered lectures to cohorts of 90+ students across three consecutive years, fostering academic engagement and research-oriented learning environments'
+        description: '• Supervised 20 undergraduate research projects, with seven mentees securing national and international grants totaling USD 40,000\n• Delivered lectures to cohorts of 90+ students across three consecutive years, fostering academic engagement and research-oriented learning environments'
       }
     ]
   },
