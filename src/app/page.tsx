@@ -874,7 +874,7 @@ export default function Home() {
           {/* Key Stats */}
           <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8">
             <div className="text-center">
-              <div className="text-3xl font-cinzel font-bold text-slate-800">20+</div>
+              <div className="text-3xl font-cinzel font-bold text-slate-800">25+</div>
               <div className="text-sm font-space-grotesk text-gray-600 mt-1">Publications</div>
             </div>
             <div className="text-center">
