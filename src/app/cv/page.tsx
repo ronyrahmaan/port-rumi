@@ -21,7 +21,7 @@ export default function CV() {
             </p>
             <p className="text-sm text-gray-500">
               Assistant Professor, Department of Public Administration | University of Dhaka<br />
-              PhD Student in Political Science | Texas Tech University
+              MA Student in Political Science | Texas Tech University
             </p>
           </div>
 

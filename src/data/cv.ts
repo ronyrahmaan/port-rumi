@@ -5,7 +5,7 @@ export const cvSections: CVSection[] = [
     title: 'Education',
     items: [
       {
-        title: 'Ph.D. in Political Science',
+        title: 'MA in Political Science',
         organization: 'Texas Tech University',
         location: 'Lubbock, Texas, USA',
         date: '2025-present (Expected: 2029)',

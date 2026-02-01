@@ -26,7 +26,7 @@ export default function Home() {
     '@type': 'Person',
     name: 'Maruf Hasan Rumi',
     url: 'https://marufhasanrumi.com',
-    jobTitle: ['Assistant Professor', 'PhD Student', 'Graduate Teaching Assistant'],
+    jobTitle: ['Assistant Professor', 'MA Student', 'Graduate Teaching Assistant'],
     worksFor: [
       { '@type': 'Organization', name: 'Texas Tech University', department: 'Department of Political Science' },
       { '@type': 'Organization', name: 'University of Dhaka', department: 'Department of Public Administration' }
