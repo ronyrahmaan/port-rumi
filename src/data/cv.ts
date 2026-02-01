@@ -8,7 +8,7 @@ export const cvSections: CVSection[] = [
         title: 'MA in Political Science',
         organization: 'Texas Tech University',
         location: 'Lubbock, Texas, USA',
-        date: '2025-present (Expected: 2029)',
+        date: '2025-present (Expected: 2027)',
         description: 'Major: Public Administration and Comparative Politics\nThesis: "Narrative Warfare: Does Political Disinformation Effect Electoral Legitimacy in South Asia?"'
       },
       {
