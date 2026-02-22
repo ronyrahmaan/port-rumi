@@ -60,6 +60,11 @@ export const cvSections: CVSection[] = [
         date: '2024-Present'
       },
       {
+        title: 'Editorial Review Board Member',
+        organization: 'Journal of Patient Experience (SAGE Publications)',
+        date: '2022-Present'
+      },
+      {
         title: 'Junior Consultant',
         organization: 'World Bank Group',
         date: '2026-Present'
@@ -73,11 +78,6 @@ export const cvSections: CVSection[] = [
         title: 'Consultant',
         organization: 'Danish Trade Union Development Agency (DTDA)',
         date: '2023'
-      },
-      {
-        title: 'Editorial Assistant',
-        organization: 'Journal of Patient Experience (SAGE Publications)',
-        date: '2022-2024'
       },
       {
         title: 'National Election Observer',
