@@ -2,6 +2,15 @@ import { Article } from '@/types';
 
 export const articles: Article[] = [
   {
+    id: '8',
+    title: 'What Will Truly Decide the Next Election?',
+    publication: 'Daily Sun',
+    publishDate: '2026-02-03',
+    url: 'https://www.daily-sun.com/20/855480',
+    excerpt: 'Exploring the key factors that will shape voter decisions in Bangladesh\'s next election following the fall of Sheikh Hasina\'s regime and the student-led mass uprising of July-August 2024.',
+    type: 'op-ed'
+  },
+  {
     id: '1',
     title: 'US could play a larger role in shaping Bangladesh\'s future trajectory',
     publication: 'South Asia Monitor',
